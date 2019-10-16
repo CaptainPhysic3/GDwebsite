@@ -1,0 +1,35 @@
+.title{
+	font-family: Arial, Helvetica;
+	text-align: center;
+	background-color: #ddd;
+	border-radius: 10px;
+}
+.play{
+	text-decoration: none;
+	color: #000;
+	background-color: #ddd;
+	padding: 10px;
+	border-radius: 20px;
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	font-size: 50px;
+}
+.player{
+	text-align: center;
+}
+a:hover{
+	background-color: #999;
+	cursor: pointer;
+}
+.hidden{
+	color: #fff;
+	padding: 5px;
+	border-radius: 5px;
+}
+.boo{
+	background-image: url("https://i.pinimg.com/originals/39/76/22/397622714805590fc6f4a3ca3d65efe2.jpg");
+}
+h4{
+	font-family: Arial, Helvetica;
+	text-align: center;
+}
