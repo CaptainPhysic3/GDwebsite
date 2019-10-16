@@ -33,3 +33,7 @@ h4{
 	font-family: Arial, Helvetica;
 	text-align: center;
 }
+nav{
+	display: block;
+	float: left;
+}
