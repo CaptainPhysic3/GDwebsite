@@ -37,6 +37,3 @@ nav{
 	display: inline;
 	float: left;
 }
-.flip{
-	background-image: src("htflip.png");
-}
