@@ -38,11 +38,14 @@ nav{
 	float: left;
 }
 .flip{
+	text-align: center;
 	background-color: #cc0000;
 }
 .break{
+	text-align: center;
 	background-color: #00cc00;
 }
 .salmon{
+	text-align: center;
 	background-color: #0000cc;
 }
