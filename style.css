@@ -37,3 +37,12 @@ nav{
 	display: inline;
 	float: left;
 }
+.flip{
+	background-color: #cc0000;
+}
+.break{
+	background-color: #00cc00;
+}
+.salmon{
+	background-color: #0000cc;
+}
