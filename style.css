@@ -37,6 +37,10 @@ nav{
 	display: inline;
 	float: left;
 }
+div{
+	padding: 10px;
+	border-radius: 10px;
+}
 .flip{
 	text-align: center;
 	background-color: #cc0000;
