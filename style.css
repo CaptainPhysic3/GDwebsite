@@ -13,10 +13,6 @@
 	font-family: Arial, Helvetica;
 	font-weight: bold;
 	font-size: 50px;
-	margin-bottom: 5px;
-}
-.player{
-	text-align: center;
 }
 a:hover{
 	background-color: #999;
